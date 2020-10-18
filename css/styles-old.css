@@ -1,0 +1,84 @@
+.row-header {
+  margin: 0px auto;
+  padding: 0px auto;
+}
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 100px;
+}
+.footer {
+  background-color: #d0a3e3;
+  margin: 0px auto;
+  padding: 20px 0px 20px 0px;
+}
+.jumbotron {
+  padding: 70px 30px 70px 30px;
+  margin: 0px auto;
+  background: #ae6edb;
+  color: white;
+}
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: black;
+}
+
+body {
+  padding: 50p 0px 0px 0px;
+  z-index: 0;
+}
+
+.color1 {
+  background-color: rgba(68, 9, 177, 0.897);
+}
+.card-header {
+  background-color: rgb(219, 171, 14);
+  color: white;
+  height: 80px;
+  padding: 20px;
+}
+
+.accord {
+  background-color: rgb(193, 212, 214);
+  color: black;
+  height: 80px;
+  padding: 20px;
+}
+
+#carouselButton {
+  right: 0px;
+  position: absolute;
+  bottom: 0px;
+  z-index: 1;
+}
+
+.inp1 {
+  margin-inline-start: -16px;
+}
+
+.butn {
+  margin-inline-start: 185px;
+}
+.carousel {
+  background: #512da8;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 300px;
+}
+
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
